@@ -1,0 +1,1 @@
+console.log("Hellow and welcome to the Monorepo 100 JS Challenge");
